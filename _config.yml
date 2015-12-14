@@ -1,7 +1,7 @@
 name: The Creative Feminine
 favicon: null
-layout_spectrum: 0.29491034196689725
-typography_spectrum: 0.8705465116072446
+layout_spectrum: 1
+typography_spectrum: 0.69777
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#fbf482'
+    - '#3d0505'
+    - '#972048'
+    - '#4f8259'
+    - '#e0764e'
   brandStrength: 0.5406608525663614
-  lightness: 0.5294691217131913
-  saturation: 0.05961342970840633
-  rhythmicContrast: 0.23360522068105638
+  lightness: 0.5
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
